@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Tram
+👋 Hi, I’m Tram
 
-- 👀 I’m interested in web development
+👀 I’m interested in web development
